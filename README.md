@@ -5,7 +5,7 @@ Material: ABS (Acrylonitrile Butadiene Styrene)
 
 
 
-Why ABS?
+# Why ABS?
 ABS was selected for this robotic joint due to its:
 ✔ High Strength & Durability : Suitable for mechanical stress and repeated movement.
 ✔ Heat Resistance : Better than PLA, making it ideal for parts near motors or electronics.
